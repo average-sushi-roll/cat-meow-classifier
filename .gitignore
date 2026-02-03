@@ -1,0 +1,17 @@
+data/raw/
+data/raw/**
+*.wav
+*.mp3
+*.flac
+*.aiff
+**/*.wav
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+
+# VS Code
+.vscode/
